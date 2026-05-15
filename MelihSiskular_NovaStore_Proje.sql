@@ -1,3 +1,8 @@
+--Yeni kurulan "NovaStore" adlı e-ticaret sitesinin veri tabanı yöneticisi (DBA) olarak atandınız.
+--Şirket sizden; ürünlerin, müşterilerin ve siparişlerin tutulacağı ilişkisel bir veri tabanı tasarlamanızı
+--ve yönetim için gerekli raporları SQL ile hazırlamanızı beklemektedir.
+
+
 -- # Bölüm-1: Veri Tabanı Tasarımı
 
 -- İlk olarak DB kurulumumuzu yapalım.
