@@ -1,6 +1,5 @@
 # A SQL Server based e-commerce database project built for practicing relational database design, joins, aggregation queries, views and backup operations.
 
---
 
 ## Features:
 - Relational database schema
@@ -10,4 +9,3 @@
 - View creation
 - Database backup command
 
---
