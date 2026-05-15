@@ -1,8 +1,8 @@
-#A SQL Server based e-commerce database project built for practicing relational database design, joins, aggregation queries, views and backup operations.
+# A SQL Server based e-commerce database project built for practicing relational database design, joins, aggregation queries, views and backup operations.
 
 --
 
-##Features:
+## Features:
 - Relational database schema
 - Foreign key relationships
 - Sample e-commerce data
